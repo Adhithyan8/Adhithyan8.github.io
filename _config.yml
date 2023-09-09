@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Adhithyan Kalaivanan"
-  avatar           : "images\\profile.png"
+  avatar           : "profile.png"
   bio              : "Masters Student in Machine Learning"
   location         : "Stockholm, Sweden"
   employer         :
