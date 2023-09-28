@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify;">
-I am a Machine Learning Master's student at KTH Royal Institute of Technology. I am working on linear mode connectivity in neural loss landscapes as part of my Master's thesis at <a href="https://www.kth.se/is/rpl">RPL</a>[RPL](https://www.kth.se/is/rpl) supervised by [Prof. Josephine Sullivan](https://www.csc.kth.se/~sullivan/). Before that, I did my Bachelor's at Indian Institute of Technology Madras, India. I also spent some time at Robert Bosch as a Software Engineer.
+I am a Machine Learning Master's student at KTH Royal Institute of Technology. I am working on linear mode connectivity in neural loss landscapes as part of my Master's thesis at <a href="https://www.kth.se/is/rpl">RPL</a> [RPL](https://www.kth.se/is/rpl) supervised by [Prof. Josephine Sullivan](https://www.csc.kth.se/~sullivan/). Before that, I did my Bachelor's at Indian Institute of Technology Madras, India. I also spent some time at Robert Bosch as a Software Engineer.
 </div>
 
 <div style="text-align: justify;">
