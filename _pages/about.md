@@ -10,14 +10,15 @@ redirect_from:
 <div style="text-align: justify;">
 I am a Machine Learning Master's student at KTH Royal Institute of Technology. I am working on linear mode connectivity in neural loss landscapes as part of my Master's thesis at <a href="https://www.kth.se/is/rpl">RPL</a> supervised by <a href="https://www.csc.kth.se/~sullivan/">Prof. Josephine Sullivan</a>. Before that, I did my Bachelor's at Indian Institute of Technology Madras, India. I also spent some time at Robert Bosch as a Software Engineer.
 </div>
-
+<br>
 <div style="text-align: justify;">
 I have a broad interest in researching the theoretical foundations of machine learning, with an inclination towards understanding the mathematical underpinnings of deep learning and the generalization of neural networks. I aim to establish the limitations and provide guarantees for both methods used in developing and interpreting ML models and the models themselves. I firmly believe that questioning, re-examining, and debunking the folk wisdom within the research community, and uncovering not just the implicit biases of models but also the assumptions and design choices made at a system level, are essential steps toward understanding and improving this technology. I hope to be part of thoughtful research endeavors that embody this approach.
 </div>
-
+<br>
 <div style="text-align: justify;">
 You can find my CV <a href="files\adhithyan_CV.pdf">here</a>, and my Master's thesis report <a href="files\Adhithyan_Kalaivanan_thesis_report_DRAFT.pdf">here</a>.
 </div>
+<br>
 
 Teaching
 ======
