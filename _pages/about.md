@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 <p style="text-align: justify;">
-I am a Machine Learning Master's student at KTH Royal Institute of Technology. I am working on linear mode connectivity in neural loss landscapes as part of my Master's thesis at <a href="https://www.kth.se/is/rpl">RPL</a> supervised by <a href="https://www.csc.kth.se/~sullivan/">Prof. Josephine Sullivan</a>. Before that, I did my Bachelor's at Indian Institute of Technology Madras, India. I also spent some time at Robert Bosch as a Software Engineer.
+I am a Machine Learning Master's student at KTH Royal Institute of Technology. I worked on linear mode connectivity in neural loss landscapes as part of my Master's thesis at <a href="https://www.kth.se/is/rpl">RPL</a> supervised by <a href="https://www.csc.kth.se/~sullivan/">Prof. Josephine Sullivan</a>. Before that, I did my Bachelor's at Indian Institute of Technology Madras, India. I also spent some time at Robert Bosch as a Software Engineer.
 </p>
 
 <p style="text-align: justify;">
-I have a broad interest in researching the theoretical foundations of machine learning, with an inclination towards understanding the mathematical underpinnings of deep learning and the generalization of neural networks. I aim to establish the limitations and provide guarantees for both methods used in developing and interpreting ML models and the models themselves. I firmly believe that questioning, re-examining, and debunking the folk wisdom within the research community, and uncovering not just the implicit biases of models but also the assumptions and design choices made at a system level, are essential steps toward understanding and improving this technology. I hope to be part of thoughtful research endeavors that embody this approach.
+ I am interested in understanding how and why modern learning methods work as well as they do. I wish to work towards establishing the scientific foundations of machine learning, particularly deep learning, by rethinking conventional wisdom, and revisiting the choices that have set the context of contemporary systems.
 </p>
 
 <p style="text-align: justify;">
-You can find my CV <a href="files\adhithyan_CV.pdf">here</a>, and my Master's thesis report <a href="files\Adhithyan_Kalaivanan_thesis_report_DRAFT.pdf">here</a>.
+You can find my CV <a href="files\adhithyan_CV.pdf">here</a>, and my Master's thesis report <a href="files\Adhithyan_Kalaivanan_thesis_report_draft.pdf">here</a>.
 </p>
 
 Teaching
