@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/adhithyan_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/adhithyan_CV.pdf" width="714px" height="432px" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 Updated as of 2023-09-09: [PDF](files\adhithyan_CV.pdf)
 
