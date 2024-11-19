@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Engineer at KTH Royal Institute of Technology working on indentification of novel plankton species from images under [Prof. Josephine Sullivan](https://www.csc.kth.se/~sullivan/). I worked on linear mode connectivity in neural loss landscapes as part of my Master's thesis at [RPL](https://www.kth.se/is/rpl). Before that, I did my Bachelor's at Indian Institute of Technology Madras, India, and spent a few years at Robert Bosch as a Software Engineer.
+I am a Doctoral Researcher at Linköping University working on Diffusion and Flow based Generative models for Bayesian Inference under the supervision of [Prof. Fredrik Lindsten](https://liu.se/medarbetare/freli29) and co-supervised by [Asst. Prof. Jens Sjölund](https://jsjol.github.io/) and [Asst. Prof. Zheng Zhao](https://zz.zabemon.com/). 
 
- I am interested in understanding how and why modern learning methods work as well as they do. I wish to work towards establishing the scientific foundations of machine learning, particularly deep learning.
-
-You can find my CV [here](files\adhithyan_CV.pdf), and my Master's thesis report [here](files\Adhithyan_Kalaivanan_thesis_report_draft.pdf).
+Previously I completed my Masters degree at KTH Royal Institute of Technology. My thesis report can be found [here](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1835931)
 
 Teaching
 ======
+Teaching Assistant for the following courses at Linköping University
+  * TDDE69 Machine Learning, Basic Course (Fall 2024)
+
 Teaching Assistant for the following courses at KTH Royal Institute of Technology:
   * DD2424 Deep Learning in Data Science (Spring 2022)
   * DD2434 Machine Learning, Advanced Course (Autumn 2021)
