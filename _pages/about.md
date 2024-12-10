@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Doctoral Researcher at Linköping University working on Diffusion and Flow based Generative models for Bayesian Inference under the supervision of [Asst. Prof. Fredrik Lindsten](https://liu.se/medarbetare/freli29) and co-supervised by [Asst. Prof. Jens Sjölund](https://jsjol.github.io/) and [Asst. Prof. Zheng Zhao](https://zz.zabemon.com/). 
+I am a Doctoral Researcher at Linköping University working on Diffusion and Flow based Generative models for Bayesian Inference under the supervision of [Senior Assoc. Prof. Fredrik Lindsten](https://liu.se/medarbetare/freli29) and co-supervised by [Asst. Prof. Jens Sjölund](https://jsjol.github.io/) and [Asst. Prof. Zheng Zhao](https://zz.zabemon.com/). 
 
 Previously I completed my Masters degree at KTH Royal Institute of Technology. My thesis report can be found [here](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1835931)
 
