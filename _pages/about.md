@@ -12,7 +12,7 @@ I am a PhD student at the Division of Statistics and Machine Learning (STIMA), L
 
 My current research focuses on leveraging diffusion and flow based models to solve statistical problems like sampling and Bayesian posterior inference. And inversely, I am also interested in using inference methods to improve training, fine-tuning and test time performance of flow based generative models. Though my primary focus is methodological, I am particularly excited about applications in materials discovery, molecular design, and protein generation.
 
-I completed my Masters degree in Machine Learning from KTH Royal Institute of Technology. My master thesis which is an empirical investigation on linear mode connectivity in neural networks can be found [here](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1835931)
+I completed my Masters degree in Machine Learning from KTH Royal Institute of Technology. My master thesis on the linear mode connectivity in neural networks can be found [here](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1835931)
 
 Teaching
 ======
