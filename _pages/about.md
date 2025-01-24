@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Doctoral Researcher at Linköping University working on diffusion and flow based generative models for probabilistic inference under the supervision of [Senior Assoc. Prof. Fredrik Lindsten](https://liu.se/medarbetare/freli29) and co-supervised by [Asst. Prof. Jens Sjölund](https://jsjol.github.io/) and [Asst. Prof. Zheng Zhao](https://zz.zabemon.com/). 
+I am a PhD student at the Division of Statistics and Machine Learning (STIMA), Linköping University, working at the intersection of generative modelling and computational statistics.  I am supervised by [Senior Assoc. Prof. Fredrik Lindsten](https://liu.se/medarbetare/freli29) and co-supervised by [Asst. Prof. Jens Sjölund](https://jsjol.github.io/) and [Asst. Prof. Zheng Zhao](https://zz.zabemon.com/). I am an affiliated PhD-student within the [WASP](https://wasp-sweden.org/) program.
 
-Previously I completed my Masters degree at KTH Royal Institute of Technology. My thesis report can be found [here](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1835931)
+My current research focuses on leveraging diffusion and flow based models to solve statistical problems like sampling and Bayesian posterior inference. And inversely, I am also interested in using inference methods to improve training, fine-tuning and test time performance of flow based generative models. Though my primary focus is methodological, I am particularly excited about applications in materials discovery, molecular design, and protein generation.
+
+I completed my Masters degree in Machine Learning from KTH Royal Institute of Technology. My master thesis which is an empirical investigation on linear mode connectivity in neural networks can be found [here](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1835931)
 
 Teaching
 ======
